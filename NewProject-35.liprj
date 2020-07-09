@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sk" xml:lang="sk" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="1ac86dac-e00a-418b-a599-eb91c9caab25">
+    <ProjectFile Source="Target/equation 2013.xlsx" Target="Target/equation 2013.xlsx" />
+</LingoProject>
